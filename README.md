@@ -1,13 +1,5 @@
 //instructions for Tip Calculator
 
-Step 1: Open the app and fill in the bill.
+The gif below demonstrates how to use the tip calculator app.
+![Kapture 2022-08-28 at 21 46 25](https://user-images.githubusercontent.com/65100772/187107323-5af4587c-cef6-41b5-a447-f7ee5ff9d775.gif)
 
-Gif:
-
-Step 2: Select the percentage tip that you'd like to leave.
-
-Gif
-
-Step 3: Total billing is displayed here
-
-Gif
